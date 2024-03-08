@@ -15,7 +15,9 @@ Copyright 2016 ClearCareer. Code released under the [Creative Commons 4.0](https
 
 This resume template uses the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
-Bruno Rodriguez - Timeline  
+Bruno Rodriguez - Timeline 
+ 
 - [Github: https://github.com/itbruno](https://github.com/itbruno)
 - [Twitter: https://twitter.com/_brunoweb](https://twitter.com/_brunoweb)
 
+Background picture: German Rojas 
